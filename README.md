@@ -10,10 +10,12 @@ This is a single-user CRM designed for personal/internal use. It combines lightw
 - Activities and notes
 
 ### Accounting
-- Invoices with line items
-- Payments tracking
-- Expenses
-- Basic chart of accounts
+- Party management (customers/suppliers) with balances and credit limits
+- Products with pricing, GST, and stock alerts
+- Invoices with line items, GST, discounts, and payment tracking
+- Purchases with bill lines
+- Expenses with payment mode tracking
+- Ledger accounts and entries (cash/bank + party ledger)
 
 ### HR
 - Employee records
